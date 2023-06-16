@@ -1,0 +1,28 @@
+.head {
+    display: flex;
+    flex-direction: column;
+    font-size: xx-large;
+    margin: -2rem;
+}
+.register-form {
+    display: flex;
+    flex-direction: column; margin: auto;
+    width: 50%;
+    background-color: white;
+    padding: 10rem 10rem 10rem 14.7rem;
+    background-color: aqua;
+}
+.landing-page {
+    display: flex;
+    flex-direction: row;
+    background-position: center;
+    margin: 5rem;
+}
+.side-one {
+    background-color: rgb(238, 226, 226);
+    background-size: cover;
+    margin: auto;
+   padding: 10rem;
+
+    
+}
